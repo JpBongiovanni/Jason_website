@@ -1,0 +1,36 @@
+.nav-link{
+    color: white;
+}
+
+#banner {
+    position: relative;
+}
+
+#banner::before {
+    content: '';
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-image: url(images/profile_background.jpeg);
+    background-position: 0px -130px;
+    border-radius: 5px;
+    opacity: 30%;
+}
+
+h1 {
+    position: relative;
+    color: #fff;
+    text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.btn{
+    position: relative;
+}
+
+.lead{
+    position: relative;
+    color: #fff;
+    text-shadow: 2px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
