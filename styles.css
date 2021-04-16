@@ -27,6 +27,12 @@ h1 {
     text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
+h3 {
+    position: relative;
+    color: #fff;
+    text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
 .nav-link {
     position: relative;
     color: #fff;
