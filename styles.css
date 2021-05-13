@@ -29,8 +29,8 @@ h1 {
 
 h3 {
     position: relative;
-    color: #fff;
-    text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    color: black;
+    /* text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000; */
 }
 
 .nav-link {
@@ -59,4 +59,8 @@ h3 {
     position: relative;
     color: #fff;
     text-shadow: 2px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.mt-5 {
+    font-family: Georgia, serif;
 }
